@@ -1,0 +1,1 @@
+This dataset provides information about a customer loyalty program for Northern Lights Air, a fictious airline based in Canada. To improve loyalty enrollment, NLA ran a promotion from February to April, 2018. The dataset includes loyalty program signups, enrollment, and customer information.
